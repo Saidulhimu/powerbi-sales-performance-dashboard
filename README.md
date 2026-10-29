@@ -34,13 +34,13 @@ Full write-up with numbers and recommendations: [`docs/insights_and_recommendati
 
 ## Dashboard
 **Page 1 – Executive overview**
-![Executive overview](images/dashboard_1_executive_overview.png)
+![Executive overview](dashboard_1_executive_overview.png)
 
 **Page 2 – Product & discount analysis**
-![Product and discount](images/dashboard_2_product_discount.png)
+![Product and discount](dashboard_2_product_discount.png)
 
 **Page 3 – Geography & customers**
-![Geography and customers](images/dashboard_3_geography_customers.png)
+![Geography and customers](dashboard_3_geography_customers.png)
 
 ## Sales forecast (2018)
 ![Forecast](images/03_sales_forecast_2018.png)
