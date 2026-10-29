@@ -42,8 +42,6 @@ Full write-up with numbers and recommendations: [`docs/insights_and_recommendati
 **Page 3 – Geography & customers**
 ![Geography and customers](dashboard_3_geography_customers.png)
 
-## Sales forecast (2018)
-![Forecast](images/03_sales_forecast_2018.png)
 
 Four models were compared on a 12-month hold-out (train 2014-2016, test 2017):
 
